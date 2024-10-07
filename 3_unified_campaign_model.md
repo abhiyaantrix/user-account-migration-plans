@@ -55,7 +55,6 @@ Create dedicated APIs/pages for Marketplace dashboard
   - Or on more extreme side, ElasticSearch could be an option too
     Would avoid ES though to keep things simpler from team learning curve and infra complexities perspectives
   - If we wait a bit longer Rails 8.1 is coming with Active Record Search out of the box
-    ![Rails 8.1 - Active Record Search](./rails_8_1_active_record_search.png)
 
 - Ensure APIs are paginated by default to handle large data volumes efficiently
 - All campaign types might even be able to share the same UI code/page scoped to that specific type
