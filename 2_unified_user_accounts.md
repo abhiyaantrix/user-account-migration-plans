@@ -16,6 +16,8 @@ The end user won't notice any changes and there will be no impact on the user ex
 
 This prepares the basis for [Marketplace](./3_unified_campaign_model.md).
 
+Check [flow charts](./flow_charts.md) for visualization of the proposed plan.
+
 ## Step 1: Create temporary `AffiliateUsers` model
 
 ### What
